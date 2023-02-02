@@ -59,3 +59,7 @@ sysinfo.txt
 crashlytics-build.properties
 
 GGJ2023/Library/
+GGJ2023/Library/Logs
+GGJ2023/Library/obj
+GGJ2023/Library/Temp
+GGJ2023/Library/UserSettings
